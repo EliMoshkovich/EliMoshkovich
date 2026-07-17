@@ -12,12 +12,6 @@ Senior DevOps Engineer at [Permit.io](https://www.permit.io), based in Austin, T
 - **Observability & Security:** Datadog, HashiCorp Vault, Teleport, OPA
 - **Languages:** Python, Bash, Go, Node.js
 
-## Currently
-
-- Running the Kubernetes platform and FinOps program at Permit.io
-- Building AI engineering tooling: centralized Claude Code skills libraries and an MCP (Model Context Protocol) gateway
-- Shipping CI/CD for cloud and on-premises air-gapped deployments
-
 ## About the repos here
 
 Most of my day-to-day infrastructure work lives in private company repos.
