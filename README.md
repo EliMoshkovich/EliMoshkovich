@@ -26,4 +26,3 @@ The public projects on this profile are earlier hands-on work: networking tools,
 ## Find me
 
 - [LinkedIn](https://linkedin.com/in/eli-moshkovich-8b9727141)
-- 📫 eli.moshko14@gmail.com
